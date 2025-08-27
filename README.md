@@ -1,4 +1,6 @@
 # FudanLabSafetyExam
+由于主播朋友又要用了，主播更新了一下。配置好环境后，在environment.py中填好用户名和密码，运行main.py即可。
+
 复旦大学实验室安全考试校级试卷运行脚本
 本项目参考https://github.com/dannyXSC/Fudan_FreshmanTest
 
